@@ -29,13 +29,6 @@ for (var i =1; i <= inputString.length; i++) {
 
 console.log(outputString);
 
-// // Dustin Method with Randall Help
-// var inputString = "building";
-
-// var reverse = []; 
-
-// for (var)
-
 
 
 // // Randalls Method
