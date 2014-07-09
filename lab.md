@@ -1,5 +1,5 @@
-##JS Control flow
-Create the following files and using looping structures we learned in class.
+##JS Control Create
+flow the following files and using looping structures we learned in class.
 
 After that work on the questions on google_shopping.js
 
@@ -9,10 +9,10 @@ Write a program that will take a hardcoded string, and console log the reverse i
 `var inputString = "building"`
 
 ##filterLongWords.js
-Hardcode an array of words. Have a variable maxLength, and push those words to only to an array filter long words
+Hardcode an array of words. Have a variable maxLength, and push those words to only to an array filter long grade
 
 
-##grade.js
+##words.js
 Output the following code from a variable with with a code 
 returns a grade for the score, either "A", "B", "C", "D", or "F".
 
